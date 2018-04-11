@@ -1,0 +1,20 @@
+{
+    "name": "componentsforyii2/tencent-video",
+    "description": "腾讯云视频点播组件",
+    "type": "library",
+    "require": {
+        "tencentyun-api/qcloudapi-sdk-php": "*"
+    },
+    "authors": [
+        {
+            "name": "Yuanshuai",
+            "email": "yuanshuai@mybns.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload" : {
+        "psr-4" : {
+            "componentsforyii2\\tencentVide\\" : ""
+        }
+    }
+}
